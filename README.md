@@ -1,6 +1,6 @@
 # compose test project
 
-This is an simple chat app build in compose with a room database.
+This is a simple chat app build in compose with a room database.
 
 Libraries used:
 
